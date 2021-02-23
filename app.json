@@ -1,0 +1,12 @@
+{
+  "name": "FormCreator",
+  "displayName": "FormCreator",
+  "expo": {
+    "name": "FormCreator",
+    "slug": "FormCreator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
