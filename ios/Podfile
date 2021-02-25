@@ -21,4 +21,8 @@ target 'FormCreator' do
   #  post_install do |installer|
   #    flipper_post_install(installer)
   #  end
+  pod 'react-native-geolocation', :path => '../node_modules/@react-native-community/geolocation'
+
+  pod 'ReactNativeGetLocation', :path => '../node_modules/react-native-get-location'
+
 end
